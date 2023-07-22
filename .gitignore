@@ -1,9 +1,1 @@
-# Virtual environments
-mb_env
-venv
-
-# VS Code configurations
-.vscode
-
-# Environment variables
-.env
+node_modules
