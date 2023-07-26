@@ -1,0 +1,18 @@
+# Virtual environments
+mb_env
+venv
+
+# VS Code configurations
+.vscode
+
+# Environment variables
+.env
+
+# Database
+medical_chroma_db/
+
+# Python execution files
+__pycache__
+
+# Gradio Flags
+flagged
